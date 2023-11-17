@@ -1,0 +1,5 @@
+Eggs
+Milk
+Soup
+Juice
+Tomato
