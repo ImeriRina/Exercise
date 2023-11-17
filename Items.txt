@@ -3,3 +3,5 @@ Milk
 Soup
 Juice
 Tomato
+Rice
+Bread
